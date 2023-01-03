@@ -1,0 +1,2 @@
+1. Can not usse fat array function for prototyping
+2. argument object can not perform with fat arrow
